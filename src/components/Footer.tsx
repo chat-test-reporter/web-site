@@ -39,13 +39,12 @@ const Footer = () => {
                 {/* Mensagem de rodapé */}
                 <div className="flex flex-col sm:flex-row items-center justify-between gap-4 border-t border-border pt-6">
                     <div className="flex items-center gap-2 text-sm text-muted-foreground">
-                        <span>Feito com</span>
+                        <span>Made by Julio S</span>
                         <Heart className="w-4 h-4 text-red-400 fill-red-400" />
-                        <span>para </span>
                     </div>
 
                     <p className="text-sm text-muted-foreground text-center sm:text-right">
-                        &copy; 2024 Chat Test Reporter. Todos os direitos reservados.
+                        &copy; 2024 Chat Test Reporter. All rights reserved.
                     </p>
                 </div>
             </div>
