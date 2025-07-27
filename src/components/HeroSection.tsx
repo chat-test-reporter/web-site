@@ -54,11 +54,11 @@ const HeroSection = () => {
                             <Link to="/how-it-works">
                                 <Button variant="hero" size="lg" className="text-lg">
                                     <Terminal className="w-5 h-5" />
-                                    Install via NPM
+                                    How to Install
                                 </Button>
                             </Link>
                             <Link
-                                to="https://www.npmjs.com/package/@chat-test-reporter/chat-test-reporter"
+                                to="https://www.npmjs.com/package/@chat-test-reporter/cli"
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
