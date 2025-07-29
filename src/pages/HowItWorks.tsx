@@ -46,7 +46,7 @@ const HowItWorks = () => {
                             <div>
                                 <p className="text-sm text-muted-foreground mb-2">For Node.js projects:</p>
                                 <div className="bg-muted rounded-lg p-4 font-mono text-sm">
-                                    <span className="text-muted-foreground">$</span> npm install @chat-test-reporter/chat-test-reporter --save-dev
+                                    <span className="text-muted-foreground">$</span> npm i @chat-test-reporter/cli --save-dev
                                 </div>
                             </div>
                             {/* <div>
